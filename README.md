@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Konunkier (Jacob Freeland)
+- 👋 Konunkier aka Jacob Freeland
 - 👀 I’m interested in how technology will play out over the next few decades.
-- 🌱 I’m currently learning HTML5, CSS, JS, and I haven't decided on ReactJS or VueJS
-- 💞️ I’m looking to collaborate on anything begginer friendly I started learning mid-march.
-- 📫 How to reach me is through my email konunkier@pm.me | yes thats a real email :)
+- 🌱 I’m currently learning to be a front end web developer.
+- 💞️ Free and open source programs makes my software become hardware.
+- 📫 Professional Use Email | jacobhfreeland@pm.me \-|-/ Collaborative/Causual Email konunkier@pm.me
 
 <!---
 Konunkier/Konunkier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
